@@ -2,9 +2,10 @@
 Portfolio for CS3750
 
 # Connect 4 Game
-# H1 In class we were able to create a Connect 4 game using **React**. 
-The Front End consisted of making the webpage for the game. 
-The Back End stored data in a Mongo Database which housed things such as high scores. 
+In class we were able to create a Connect 4 game using **React**. 
+## The Front End 
+As an introduction to React, we created a tic-tac-toe game that we then transformed into a Connect 4 game. 
+## The Back End stored data in a Mongo Database which housed things such as high scores. 
 
 
 # MERN Authentication
