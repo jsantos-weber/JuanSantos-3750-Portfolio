@@ -1,5 +1,5 @@
 # JuanSantos-3750-Portfolio
-Portfolio for CS3750
+This is the portfolio for the assignments made for the CS 3750 class for the Summer 2023 semester. During this class we learned the MERN method of creating a Front and Back End system. We learned how to implement a front end that can communicate with a backend and store data inside of Mongo Databases. This was the highlight of the semester as being able to communicate between the two proved to be challenging and very educational. 
 
 # Connect 4 Game
 In class we were able to create a Connect 4 game using **React**. This involved creating both a front end and a back end. React was a new language and the skills adopted during the creation were all newly devleoped. 
